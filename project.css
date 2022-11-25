@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Nerko+One&family=Righteous&family=Rubik+Mono+One&family=Secular+One&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+    color: black;
+}
+body{
+    background-color: white;
+}
+.form-control{
+    max-width: 100px;
+    margin: 20px;
+    color: #4B6587;
+    background-color: white;
+}
+
+.navbar{
+    background-color: transparent;
+}
+
+.navbar-brand{
+    font-family: 'Righteous', cursive;
+    color: pink;
+}
+
+
+
+.card {
+    background-color: white;
+    height: 40rem;
+    width: 22rem;
+    padding: 20px;
+    margin-left: 10px;
+}
+.card-title{
+    font-family: 'Secular One', sans-serif;
+}
+
+footer{
+    background-color: transparent;
+}
+
+/* font-family: 'Righteous', cursive;
+font-family: 'Rubik Mono One', sans-serif;
+font-family: 'Secular One', sans-serif; */
